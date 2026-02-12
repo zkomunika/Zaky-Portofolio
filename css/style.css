@@ -864,7 +864,7 @@
 }
 
 .home .footer {
-    width: 2560px;
+    width: 1920px;
     height: 70.0px;
     margin-top: 160px;
     display: flex;
@@ -894,4 +894,5 @@
     color: #ffffff;
     font-size: 24px;
     letter-spacing: 0;
+    
 }
